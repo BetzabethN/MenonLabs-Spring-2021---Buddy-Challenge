@@ -11,3 +11,10 @@ The following repository contains the analysis of [this](https://www.kaggle.com/
 &nbsp;&nbsp;&nbsp;&nbsp;* Music - Has two peaks: 12pm UTC-6:30pm UTC, 4am UTC-5:30am UTC<br>
 &nbsp;&nbsp;&nbsp;&nbsp;* Shows - All videos in 3 time zones: 8-8:30pm, 9-9:30pm and 1-1:30am.<br>
 4. Dislike increase linearly with likes, exponentially with comment_count and logarithmically with views.
+
+
+## Categorical Analysis
+
+1. Top 10 Categories: Out of the 10 most popular categories, the 'Entertainment' category was the one with the most videos.
+2. Top 10 Channels: All the top 10 channels are run by big companies / corporations.
+3. Trending without a Description: Most of the videos without a description that trended were from the 'People & Blogs' and 'Entertainment' categories.
